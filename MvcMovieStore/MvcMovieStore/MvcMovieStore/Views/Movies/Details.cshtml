@@ -1,0 +1,24 @@
+﻿@model MvcMovieStore.Models.Movie
+
+@{
+    ViewBag.Title = Model.Name;
+}
+
+<br />
+
+<h2>@Model.Name</h2>
+
+<br />
+
+<img alt="@Model.Name" src="@Model.MovieArtUrl" style="width:200px;height:300px" />
+
+<br />
+
+Genre: @Model.Genre.Name
+<br />
+Release Date: @Model.ReleaseDate.ToShortDateString()
+<br />
+@Html.ActionLink("Edit", "Edit", "Movies", new { id = Model.MovieId }, new{ @class = "btn btn-primary"})
+
+@Html.ActionLink("Delete", "Delete", "Movies", new { id = Model.MovieId }, new { @class = "btn btn-primary" })
+

@@ -1,0 +1,79 @@
+﻿@model PagedList.IPagedList<MvcMovieStore.Models.Movie>
+@using PagedList.Mvc;
+
+@{
+    /**/
+
+    ViewBag.Title = "Movies";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>All Movies</h2>
+<p>
+    @using (Html.BeginForm())
+    {
+    <p>
+        Title: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+    }
+    @Html.ActionLink("New Movie", "New", "Movies", null, new { @class = "btn btn-primary" })
+    </p>
+
+<div class="col-12">
+    <table>
+        @{
+            int i = 0;
+<tr>
+    @foreach (var movie in Model)
+    {
+
+    <td>
+        <a href="@Url.Action("Details", "Movies", new { id = movie.MovieId })">
+            <img alt="@movie.Name" src="@movie.MovieArtUrl" style="width:150px;height:225px" />
+            <br />
+        </a>
+        <br />
+        <h4 class="float-left badge badge-default">@movie.Price</h4>
+        <p class="float-right btn btn-default left: 50px;">
+            @Html.ActionLink("Add To Cart", "AddToCart", "ShoppingCart", new { id = movie.MovieId }, "")
+        </p>
+        <br />
+        <h4 class="text-center">@movie.Name</h4>
+    </td>
+        i++;
+        if (i % 5 == 0)
+        {
+        <tr></tr>
+    }
+}
+    </tr>
+        }
+    </table>
+</div>
+<br />
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+            new { page }))
+
+
+    @section Styles
+    {
+        <style>
+            td {
+                padding: 50px;
+            }
+
+            span {
+                text-align: center;
+            }
+
+            img {
+                border: 2px solid white;
+            }
+
+            body {
+                background-color: darkgray;
+            }
+        </style>
+    }

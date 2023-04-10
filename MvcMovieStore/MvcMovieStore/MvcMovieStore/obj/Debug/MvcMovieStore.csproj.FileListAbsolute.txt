@@ -1,0 +1,515 @@
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\ApplicationInsights.config
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\MvcMovieStore.dll.config
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\MvcMovieStore.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\MvcMovieStore.pdb
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csc.exe
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csc.exe.config
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csc.rsp
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csi.exe
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csi.exe.config
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csi.rsp
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.AppContext.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Console.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\vbc.exe
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\vbc.exe.config
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\vbc.rsp
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Antlr3.Runtime.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.SqlServer.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.Web.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Newtonsoft.Json.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Owin.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Helpers.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Mvc.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Optimization.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Razor.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\WebGrease.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.SqlServer.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Helpers.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Mvc.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Optimization.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Razor.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Antlr3.Runtime.pdb
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Newtonsoft.Json.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.Web.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csprojResolveAssemblyReference.cache
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csproj.CoreCompileInputs.cache
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csproj.CopyComplete
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.pdb
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.InitialModel.resources
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csproj.GenerateResource.cache
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.PopulateGenres.resources
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.PopulateMovies.resources
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.Mvc.dll
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.xml
+C:\Users\ognen\Desktop\ASP.NET MVC\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.Mvc.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\ApplicationInsights.config
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\MvcMovieStore.dll.config
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\MvcMovieStore.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\MvcMovieStore.pdb
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csc.exe
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csc.exe.config
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csc.rsp
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csi.exe
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csi.exe.config
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csi.rsp
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.AppContext.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Console.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\vbc.exe
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\vbc.exe.config
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\vbc.rsp
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Antlr3.Runtime.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.SqlServer.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.Web.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Newtonsoft.Json.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Owin.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.Mvc.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Helpers.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Mvc.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Optimization.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Razor.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\WebGrease.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.SqlServer.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.Mvc.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Helpers.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Mvc.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Optimization.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Razor.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Antlr3.Runtime.pdb
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Newtonsoft.Json.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.Web.xml
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csprojResolveAssemblyReference.cache
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.InitialModel.resources
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.PopulateGenres.resources
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.PopulateMovies.resources
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csproj.GenerateResource.cache
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csproj.CoreCompileInputs.cache
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csproj.CopyComplete
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.dll
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.pdb
+C:\Users\ognen\Desktop\682\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.InitialModel1.resources
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\ApplicationInsights.config
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\MvcMovieStore.dll.config
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\MvcMovieStore.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\MvcMovieStore.pdb
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csc.exe
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csc.exe.config
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csc.rsp
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csi.exe
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csi.exe.config
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csi.rsp
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.AppContext.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Collections.Immutable.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Console.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Diagnostics.Process.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.Compression.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.FileSystem.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.Pipes.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Reflection.Metadata.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.AccessControl.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Claims.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Principal.Windows.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Threading.Thread.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.ValueTuple.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.XmlDocument.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.XPath.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\vbc.exe
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\vbc.exe.config
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\vbc.rsp
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\VBCSCompiler.exe
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\VBCSCompiler.exe.config
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Antlr3.Runtime.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.SqlServer.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.Agent.Intercept.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.DependencyCollector.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.Web.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.WindowsServer.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.ApplicationInsights.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Core.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Cookies.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Facebook.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Google.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.OAuth.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Twitter.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Web.Infrastructure.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Newtonsoft.Json.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Owin.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.Mvc.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Helpers.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Mvc.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Optimization.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Razor.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Deployment.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Razor.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\WebGrease.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.SqlServer.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.Mvc.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Helpers.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Mvc.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Optimization.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Razor.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Deployment.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Razor.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Antlr3.Runtime.pdb
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Newtonsoft.Json.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Core.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Facebook.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Cookies.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.OAuth.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Google.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Twitter.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.ApplicationInsights.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.DependencyCollector.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.WindowsServer.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.Web.xml
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csprojResolveAssemblyReference.cache
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.InitialModel.resources
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.PopulateGenres.resources
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.PopulateMovies.resources
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.InitialModel1.resources
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csproj.GenerateResource.cache
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csproj.CoreCompileInputs.cache
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csproj.CopyComplete
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.dll
+F:\proekti\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.pdb
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\ApplicationInsights.config
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\MvcMovieStore.dll.config
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\MvcMovieStore.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\MvcMovieStore.pdb
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csc.exe
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csc.exe.config
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csc.rsp
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csi.exe
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csi.exe.config
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\csi.rsp
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.AppContext.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Console.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\vbc.exe
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\vbc.exe.config
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\vbc.rsp
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Antlr3.Runtime.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.SqlServer.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.Web.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Newtonsoft.Json.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Owin.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.Mvc.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Helpers.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Mvc.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Optimization.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Razor.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\WebGrease.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\EntityFramework.SqlServer.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\PagedList.Mvc.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Helpers.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Mvc.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Optimization.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.Razor.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Antlr3.Runtime.pdb
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Newtonsoft.Json.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\bin\Microsoft.AI.Web.xml
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.InitialModel.resources
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.PopulateGenres.resources
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.PopulateMovies.resources
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.Migrations.InitialModel1.resources
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csproj.GenerateResource.cache
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csproj.CoreCompileInputs.cache
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csproj.CopyComplete
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.dll
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.pdb
+C:\Users\ognen\Desktop\ciro prostor\MvcMovieStore\MvcMovieStore\MvcMovieStore\obj\Debug\MvcMovieStore.csproj.AssemblyReference.cache

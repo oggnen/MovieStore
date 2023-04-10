@@ -1,0 +1,63 @@
+﻿@model List<MvcMovieStore.Models.Movie>
+
+@{
+    ViewBag.Title = "Mvc Movie Store";
+}
+<br /><br /><br /><br /><br />
+<div class="col-12">
+    <table>
+        @{
+            int i = 0;
+        <tr>
+            @foreach (var movie in Model)
+            {
+
+            <td>
+                <a href="@Url.Action("Details", "Movies", new { id = movie.MovieId })">
+                    <img alt="@movie.Name" src="@movie.MovieArtUrl" style="width:200px;height:300px" />
+                    <br />
+                    <br />
+                </a>
+                    <h4 class="float-left badge badge-default">@movie.Price</h4>
+                    <p class="float-right btn btn-default left: 50px;">
+                        @Html.ActionLink("Add To Cart", "AddToCart", "ShoppingCart", new { id = movie.MovieId }, "")
+                    </p>
+                <br />
+                <h4>@movie.Name</h4>
+            </td>
+                i++;
+                if(i == 4)
+                {
+                    <tr></tr>
+                }
+            }
+        </tr>
+        }
+
+    </table>
+</div>
+
+@section Styles
+    {
+    <style>
+        td {
+            padding: 50px;
+        }
+        span{
+            text-align: center;
+        }
+        img {
+            border:2px solid white;
+        }
+        body {
+            background-color: darkgray;
+        }
+        p {
+            float: right;
+            text-align: center;
+        }
+        h4 {
+            text-align: center;
+        }
+    </style>
+    }
